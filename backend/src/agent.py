@@ -1,18 +1,3 @@
-
-
-# ======================================================
-# 🎯 COFFEE SHOP VOICE AGENT TUTORIAL 
-# 👨‍⚕️ Tutorial by Dr. Abhishek: https://www.youtube.com/@drabhishek.5460/videos
-# 💼 Professional Voice AI Development Course
-# 🚀 Advanced Agent Patterns & Real-world Implementation
-# ======================================================
-#
-# 🎉 SUBSCRIBE TO DR. ABHISHEK FOR MORE AMAZING TUTORIALS!
-# 📺 YouTube: https://www.youtube.com/@drabhishek.5460/videos
-# 💡 Master AI Development with Real Projects
-#
-# ======================================================
-
 import logging
 import json
 import os
