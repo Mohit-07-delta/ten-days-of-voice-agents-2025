@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Mohit Agre",
+        "company": null,
+        "email": "mohitagre879@gmail.com",
+        "role": null,
+        "use_case": null,
+        "team_size": null,
+        "timeline": null,
+        "timestamp": "2025-11-26T12:58:35.008135"
+    },
+    {
+        "name": "Mohit",
+        "company": null,
+        "email": "mohitagre879@gmail.com",
+        "role": "College Student",
+        "use_case": "AI generated productivity app for study",
+        "team_size": null,
+        "timeline": "Next semester",
+        "timestamp": "2025-11-26T13:05:56.408023"
+    }
+]
