@@ -1,4 +1,3 @@
-# IMPROVE THE AGENT AS PER YOUR NEED 1
 """
 Day 8 – Voice Game Master (D&D-Style Adventure) - Voice-only GM agent
 
