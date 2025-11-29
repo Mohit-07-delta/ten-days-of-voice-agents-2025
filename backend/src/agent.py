@@ -1,23 +1,4 @@
-# game_master_agent.py
-"""
-Day 9 – E-commerce Agent (voice-driven, ACP-inspired light flow)
 
-This is an upgraded version of the Day 8 voice Game Master file adapted into a
-voice-first e-commerce assistant for a small Indian shop: "Dr Abhishek Shop".
-Agent persona: "Ramu Kaka" (friendly neighbourhood shopkeeper).
-
-Requirements honored:
-- Kept all original imports and speech/STT/TTS/turn detector/VAD integration unchanged.
-- Replaced game world logic with a small product catalog and a simple merchant layer
-  (list_products, create_order, view_last_order, show_cart, add_to_cart, clear_cart).
-- Orders persisted to a JSON file (orders.json) and also kept per-session in userdata.
-- Tools exposed via @function_tool; agent calls these functions instead of embedding
-  commerce logic inside prompts.
-
-Note: This file is intentionally self-contained and avoids changing module imports
-or the voice plumbing. The voice flow and TTS remain unchanged; only the agent
-instructions and tools have been adapted for the commerce task.
-"""
 
 import json
 import logging
